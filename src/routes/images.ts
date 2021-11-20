@@ -15,6 +15,7 @@ router.post('/', (request, response, next) => {
   });
   
   form.on('file', (_formname, file) => {
+    // Will return the image's firebase url
     uploadFile(file)
       .then(imageUrl => {
         return response.status(200).json(imageUrl);
