@@ -34,7 +34,7 @@
 
 This is my solution to the Image Uploader challenge from devchallges.io:
 
-![Imgur Image](https://imgur.com/RtMrpSz)
+![Imgur Image](https://imgur.com/RtMrpSz.png)
 
 This is my first project non-tutorial project using Typescript, React, and NodeJS. It's a very simple image uploading web app that uploads images to Firebase Storage. Even though it was a simple app to create, the process of learning how to access images uploaded to NodeJS was interesting and then adding functionality of storing that image on Firebase added slightly more complexity.
 
