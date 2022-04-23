@@ -36,7 +36,7 @@ This is my solution to the Image Uploader challenge from devchallges.io:
 
 ![Imgur Image](https://imgur.com/RtMrpSz.png)
 
-This is my first project non-tutorial project using Typescript, React, and NodeJS. It's a very simple image uploading web app that uploads images to Firebase Storage. Even though it was a simple app to create, the process of learning how to access images uploaded to NodeJS was interesting and frustrating at the same time. Then adding functionality of storing that image on Firebase added slightly more complexity, but was a great learning experience.
+This is my first non-tutorial project using Typescript, React, and NodeJS. It's a very simple image uploading web app that uploads images to Firebase Storage. Even though it was a simple app to create, the process of learning how to access images uploaded to NodeJS was interesting and frustrating at the same time. Then adding functionality of storing that image on Firebase added slightly more complexity, but was a great learning experience.
 
 In the end, I'm very happy with the end product of the project. I could have changed the styling of the app but I decided it was more beneficial to recreate the app from the figma file. The only thing I'd like to add to the app (without changing functionality, like adding users, etc.) would be mobile support and/or testing.
 
